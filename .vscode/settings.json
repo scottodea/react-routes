@@ -1,0 +1,8 @@
+{
+  "workbench.colorCustomizations": {
+    "[Ayu Dark Bordered]": {
+      "activityBar.foreground": "#00ffff",
+      "editorCursor.foreground": "#e0291c"
+    }
+  }
+}
