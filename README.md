@@ -1,3 +1,5 @@
+To run this program, clone the repository and run npm/yarn install
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
